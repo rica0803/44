@@ -382,7 +382,7 @@ background: var(--main-color);
 }
 @media (max-width:360px){
   .home-text span{
-    font: size 0.9rem;
+    font: size 0.8rem;
   }
   .home-text h1 {
     font-size: 2rem;
